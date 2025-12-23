@@ -1,4 +1,11 @@
 # Problema de la mochila - Modelos de Programación - Grupo 1
+
+## Descripción general
+- 01-knapsack.ipynb: Aproximación inicial al problema de la mochila. Distintas formulaciones, incluyendo igualdad y desigualdad (variables de holgura)
+- 02-optimizacion_carteras.ipynb: Aplicación del problema de la mochila a la optimización de carteras financieras. Inclusión del riesgo en la función de energía. Descomposición binaria de variables para permitir inversiones discretas (en lugar de binarias). Optimizaciones del uso de variables: modelo sin variables de holgura, establecer límites al peso máximo de un activo en la cartera, paquetización de los activos y métodos iterativos.
+- 03-benchmark.ipynb: Carga de datos reales y ejecución contra este conjunto de datos (y contra un conjunto de datos de ejemplo) de todos los modelos desarrollados, para comparar el número de variables necesarias, tiempo de ejecución y resultados obtenidos (ROI y Riesgo).
+
+
 ## Flujo de trabajo
 ### Entorno de desarrollo local
 #### Opción Conga + Colab
