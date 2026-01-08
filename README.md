@@ -45,7 +45,7 @@ dwave config create --auto-token
 Dentro del directorio de nuestro virtual env y con el virtual env activo (veremos el nombre del virtual env entre paréntesis antes del prompt del sistema). "proyecto_mochila" es el nombre del directorio que se creará para descargar el repositorio
 
 ```
-git clone https://github.com/sothermore/knapsack_modelos_programacion_grupo_1.git proyecto_mochila 
+git clone https://github.com/othermore/knapsack_modelos_programacion_grupo_1.git proyecto_mochila 
 nbstripout --install
 nbdime config-git --enable --global
 ```
